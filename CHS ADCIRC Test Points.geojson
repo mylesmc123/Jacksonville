@@ -130,6 +130,56 @@
     "properties": {
     "Point":18274
     }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -81.3892,30.2843 ]
+    },
+    "properties": {
+    "Point":18044
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -81.3983, 30.2957 ]
+    },
+    "properties": {
+    "Point":18015
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -81.4092, 30.272 ]
+    },
+    "properties": {
+    "Point":18084
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -81.3928, 30.3005 ]
+    },
+    "properties": {
+    "Point":17999
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -81.424, 30.266 ]
+    },
+    "properties": {
+    "Point":18107
+    }
   }
 ]
 }
